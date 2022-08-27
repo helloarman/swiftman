@@ -1,5 +1,5 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# SWIFTMAN
+## _The Fast HTML File Builder, Ever_
 
 [![N|Solid](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgitlFhUi5-2rWDhx5h46DmAAQRD6v3wgIPVSharOCPUGLwvodijdrSURBVsHIbQahypHkI2zzmz5RVxv4zeElhvE826C5-qNApefU7qzVWSU8vb2tZHw18X4WcMSQMtL5rTFus4x-hKlsBtJorZjmQeMZ2rqAJ6mWOxG_CDt2l_qtyc-KQez0sWGL3/s320/Logo%20file-02.png)](https://helloarman.github.io/swiftman)
 
