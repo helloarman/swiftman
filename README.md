@@ -17,23 +17,20 @@ SwiftMan is a open-source HTML CDN Formater that helps you to make the fastest H
 
 ## Features
 
-- Make an HTML File in one Click with necessary Features.
-- Add custom CSS file with it.
-- Add custom JS file with it.
+- Make an HTML File in one Click with the necessary Features.
+- Add a custom CSS file with it.
+- Add a custom JS file with it.
 
 
 ## Tech
 
 SwiftMan uses a number of open source projects to work properly:
 
-- [Javascript] - For conditon and format the file.
-- [HTML & CSS] - For Design.
-- [Bootstrap] - For Build a respondive site very fast.
+[Javascript] - To condition and format the file.
+[HTML & CSS] - For Design.
+[Bootstrap] - For Build a responsive site very fast.
 
-
-And of course SwiftMan itself is open source with a [public repository][dill]
- on GitHub.
-
+And of course, SwiftMan is open source with a [public repository][dill] on GitHub.
 ## Installation
 
 - You Don't need any installation. Just visit the site [Click Into the Logo]:
@@ -63,7 +60,6 @@ Website: https://armanrahman.info
 ## License
 
 
-**Free Software, Hell Yeah!**
+**Free Software**
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
